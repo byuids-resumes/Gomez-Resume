@@ -1,88 +1,50 @@
----
-layout: resume
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# KEMISH I. GOMEZ
+385 313 2568 | gom20016@byui.edu | [LinkedIn](www.linkedin.com/in/kemish-gomez)
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
+## Professional Summary
+Student at BYU-Idaho majoring in Computer Science. Fluent in English and Spanish, with a basic understanding of German. Quick at developing skills and acquiring new knowledge. Eager to collaborate within a team, learn from others, and possesses assertive communication and exceptional people skills.
 
 ## Education
+**Brigham Young University - Idaho**  
+*Rexburg, Idaho*  
+*July 2025*  
+- Bachelor of Science in Computer Science  
+- GPA: 3.5
+- Courses: Programming with Functions, Programming with Data Structures, C++
+- Minor in Computer Engineering
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+## Skills
+- **Programming Languages:** 
+  - Python (NumPy, OpenCV, Pandas, pyGame)
+  - C# (Raylib)
+  - JavaScript (React Native)
+- **Software Knowledge:** Word, PowerPoint, Excel
 
-- Full academic scholarship with 4.0 GPA
+## Experience
+**Brigham Young University - Idaho**  
+*February 2022 - Present*  
+*Phone Specialist*  
+*Rexburg, Idaho*  
+- Collaborated in a team of 10+ to support user experience
+- De-escalated high-stress situations, providing efficient solutions to customers
+- Assisted callers struggling with system errors
+- Maintained an average of 12 calls/day and high CSAT
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+**English-Spanish for the Church of Jesus Christ**  
+*March 2017 - October 2018*  
+*Freelance Translator*  
+*Ciudad de Mexico, Mexico*  
+- Assisted employees in drafting coherent mails in non-native language
+- Constructed sound arguments and facilitated understanding
+- Translated/edit 30+ business presentations Spanish to English
+- Achieved almost zero language barrier due to native-level proficiency
+- Secured over 15 clients, preventing spelling and grammar mistakes in emails
 
-- 4.0 Major GPA
+## Objective
+Seeking real-world experience in a professional setting. Aiming to develop interpersonal skills within teams, learn from experienced individuals, and contribute to a positive work environment by assisting others whenever possible.
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Volunteer Experience
+- **Full-time Volunteer Representative**
+  - *Church of Jesus Christ of Latter-Day Saints*
+  - Taught life skills, such as emotion management
+  - Led and trained a group of 5+ individuals to achieve goals
